@@ -1,86 +1,86 @@
 IBM Data Analyst Capstone Project
 
-A comprehensive data analysis capstone inspired by the IBM Data Analyst Professional Certificate.
-This project showcases end-to-end data analytics skills including data collection, wrangling, exploratory analysis, visualization, dashboard creation, and storytelling insights.
+A professional data analysis capstone project inspired by the IBM Data Analyst Professional Certificate. This project demonstrates skills in data collection, wrangling, exploratory data analysis, visualization, dashboard creation, and storytelling insights.
 
-📊 Datasets
+📊 Dataset
 
-The project uses multiple datasets collected from diverse sources:
+The project uses multiple datasets collected from various sources including:
 
-Job postings & APIs – analyze in-demand programming and database skills.
+Job postings & APIs – analyzing in-demand programming skills
 
-Survey data – understand industry trends and compensation patterns.
+Survey data – understanding industry trends and compensation
 
-Web scraping – gather structured and unstructured data from websites.
+Web scraping – gathering structured and unstructured data
 
 🔍 Project Workflow
 
 Week 1: Data Collection
 
-Collected data from APIs, CSV files, and web sources.
+Gathered data from multiple sources including APIs, CSV, and websites
 
-Applied web scraping and API integration to extract structured, clean datasets.
+Applied web scraping and API integration to extract clean, structured data
 
 Week 2: Data Wrangling
 
-Cleaned and transformed raw datasets.
+Cleaned and transformed raw datasets
 
-Handled missing values, duplicates, and normalized compensation data.
+Handled missing values, duplicates, and normalized data for analysis
 
 Week 3: Exploratory Data Analysis (EDA)
 
-Identified trends in programming skills, database skills, and IDE usage.
+Explored trends in programming skills, database skills, and IDE usage
 
-Analyzed patterns in compensation and employment.
+Identified patterns in compensation and employment data
 
 Week 4: Data Visualization
 
-Created charts, graphs, and dashboards using Python (pandas, matplotlib, seaborn).
+Created charts, graphs, and dashboards to highlight insights
 
-Delivered clear, professional visual insights.
+Used Python (pandas, matplotlib, seaborn) for clear, professional visuals
 
 Week 5: Dashboard Creation
 
-Built an interactive dashboard with IBM Cognos Analytics.
+Built an interactive dashboard using IBM Cognos Analytics
 
-Highlighted actionable insights for skill demand and compensation trends.
+Presented actionable insights for skill demand and compensation trends
 
 Week 6: Presentation of Findings
 
-Presented insights using storytelling techniques.
+Storytelling approach to summarize insights
 
-Prepared professional reports in PDF and PowerPoint formats.
+Created professional presentation in PDF and PowerPoint formats
 
 🚀 Key Insights
 
-Most in-demand programming languages and database skills.
+Top in-demand programming languages and database skills
 
-Compensation analysis normalized by annual salary for accurate comparison.
+Compensation analysis normalized by annual salary for fair comparison
 
-Visual trends and patterns across datasets.
+Visual representation of trends and patterns across multiple datasets
 
-Actionable recommendations for IT skill development and recruitment planning.
+Actionable insights for IT skill development and recruitment planning
 
 📂 Project Files
 
-Jupyter Notebooks (.ipynb) – Step-by-step weekly analysis.
+Jupyter Notebooks (.ipynb) – Step-by-step analysis for each week
 
-Dashboards – Interactive IBM Cognos Analytics link.
+Dashboards – IBM Cognos Analytics interactive dashboard
 
-Presentations – PDF and PPT summarizing findings.
+Presentation – PDF and PPT summarizing findings
 
-README.md – Project documentation.
+README.md – Project documentation
 
 🛠️ Tools & Skills
 
 Python: pandas, matplotlib, seaborn, BeautifulSoup
 
-SQL & BigQuery – Querying structured datasets
+SQL & BigQuery – querying structured datasets
 
-Web Scraping & API Integration
+Web Scraping & API integration
 
 Data Visualization & Dashboarding – IBM Cognos Analytics
 
 Data Storytelling & Presentation Skills
 
 ✦ Created by Hady Ahmed Slman
+Portfolio: View on GitHub
