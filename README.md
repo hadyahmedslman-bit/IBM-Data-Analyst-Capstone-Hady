@@ -83,4 +83,3 @@ Data Visualization & Dashboarding – IBM Cognos Analytics
 Data Storytelling & Presentation Skills
 
 ✦ Created by Hady Ahmed Slman
-Portfolio: View on GitHub
